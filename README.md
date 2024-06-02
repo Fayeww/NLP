@@ -5,6 +5,7 @@
 
 ### Objective 
 This notebook focuses on Named Entity Recognition (NER) and similarity analysis for financial news.
+<img width="683" alt="截屏2024-06-02 下午3 50 10" src="https://github.com/Fayeww/NLP/assets/147254244/85d5f15d-0328-4e08-85b7-9275b423d74a">
 
 ### Steps
 
